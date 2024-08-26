@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Main{
+	public static void main(String[] args) {
+	   byte a;
+	   Scanner s = new Scanner(System.in);
+		 System.out.println("Enter the byte value: ");
+		 a= s.nextByte();
+	   System.out.println("Value of a is "+a);
+	}
+}
