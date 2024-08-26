@@ -1,0 +1,7 @@
+public class Main{
+	public static void main(String[] args) {
+	   float a=34.6F;
+	   int b=(int)a;
+	   System.out.println(b);
+	}
+}
